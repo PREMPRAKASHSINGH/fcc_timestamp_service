@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Clementine.js FCC Boilerplate
 
 [![Join the chat at https://gitter.im/johnstonbl01/clementinejs](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/johnstonbl01/clementinejs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -102,3 +103,7 @@ You can find a complete step-by-step tutorial on how to create this app from the
 ## License
 
 MIT License. [Click here for more information.](LICENSE.md)
+=======
+# fcc_timestamp_service
+fcc timestamp service project
+>>>>>>> e23b917a4cd4c5babe6716e43f8eb916d57fde4b
