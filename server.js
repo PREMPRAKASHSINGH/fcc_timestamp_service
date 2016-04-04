@@ -48,13 +48,13 @@ app.get("/:indate([0-9]+)",function(req,res){
 		natdate=natdate.slice(1);
 		natdate=natdate.join(" ");
 		
-		out["natural"]=natdate;
 		out["unix"]=para;
+		out["natural"]=natdate;
 	res.send(JSON.stringify(out));
 	}
 	else{
-		out["natural"]=null;
 		out["unix"]=null;
+		out["natural"]=null;
 	res.send(JSON.stringify(out))
 	}
 });
